@@ -1,0 +1,17 @@
+# Archivos generados por Maven
+**/target/
+
+# Archivos compilados de Java
+*.class
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos con información privada
+.env
+.env.*
+!.env.example
