@@ -1,5 +1,5 @@
 package senati;
-
+import java.util.Scanner;
 //Alcancia para comprar zapatillas;
 //El usuario ingresa cuanto ahorra cada semana hasta reunir s/.250, este monto representa el precio de las zapatillas, al final se debe mostrar cuantas semanas le tomo reunir el dinero.
 
